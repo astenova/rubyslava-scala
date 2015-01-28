@@ -1,7 +1,6 @@
 object Example1 {
   def main(args: Array[String]): Unit = {
 
-
     // CONSTANTS
     def describe(x: Any) = x match {
       case 5 => "five"
@@ -10,6 +9,7 @@ object Example1 {
       case Nil => "the empty list"
       case _ => "something else"
     }
+
     println
     println("CONSTANTS")
     println
