@@ -2,14 +2,30 @@
 [debug] Initial source changes: 
 [debug] 	removed:Set()
 [debug] 	added: Set()
-[debug] 	modified: Set()
+[debug] 	modified: Set(/Users/adka/praca/rubyslava/src/main/scala/Example3.scala)
 [debug] Removed products: Set()
 [debug] External API changes: API Changes: Set()
 [debug] Modified binary dependencies: Set()
-[debug] Initial directly invalidated sources: Set()
+[debug] Initial directly invalidated sources: Set(/Users/adka/praca/rubyslava/src/main/scala/Example3.scala)
 [debug] 
 [debug] Sources indirectly invalidated by:
 [debug] 	product: Set()
 [debug] 	binary dep: Set()
 [debug] 	external source: Set()
-[debug] All initially invalidated sources: Set()
+[debug] All initially invalidated sources: Set(/Users/adka/praca/rubyslava/src/main/scala/Example3.scala)
+[info] Compiling 1 Scala source to /Users/adka/praca/rubyslava/target/scala-2.11/classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.5
+[debug] Getting compiler-interface from component compiler for Scala 2.11.5
+[debug] Running cached compiler 6373de85, interfacing (CompilerInterface) with Scala compiler version 2.11.5
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-bootclasspath
+[debug] 	/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/classes:/Users/adka/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+[debug] 	-classpath
+[debug] 	/Users/adka/praca/rubyslava/target/scala-2.11/classes
+[debug] Scala compilation took 1.244479089 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

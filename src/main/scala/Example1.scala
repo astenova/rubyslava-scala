@@ -3,7 +3,6 @@ object Example1 {
 
 
     // CONSTANTS
-
     def describe(x: Any) = x match {
       case 5 => "five"
       case true => "truth"
