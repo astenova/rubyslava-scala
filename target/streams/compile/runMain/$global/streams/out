@@ -1,10 +1,10 @@
-[info] Running Example1 
+[info] Running Example2 
 [debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main-e to terminate.
 [debug]   Classpath:
-[debug] 	/Users/adka/praca/rubyslava/target/scala-2.11/classes
+[debug] 	/Users/adka/git/rubyslava-code/target/scala-2.11/classes
 [debug] 	/Users/adka/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
-[debug] Waiting for thread run-main-0 to terminate.
-[debug] 	Thread run-main-0 exited.
+[debug] 	Thread run-main-e exited.
 [debug] Interrupting remaining threads (should be all daemons).
 [debug] Sandboxed run complete..
 [debug] Exited with code 0
