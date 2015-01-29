@@ -25,6 +25,7 @@ object Example3 {
       println("myList(" + index + ") with value " + value)
     }
 
+    println
     println("HANDLING EXCEPTIONS")
 
     try {

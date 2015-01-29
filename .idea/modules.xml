@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rubyslava.iml" filepath="$PROJECT_DIR$/.idea/modules/rubyslava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rubyslava-build.iml" filepath="$PROJECT_DIR$/.idea/modules/rubyslava-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/rubyslava-code.iml" filepath="$PROJECT_DIR$/rubyslava-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rubyslava-code-build.iml" filepath="$PROJECT_DIR$/.idea/modules/rubyslava-code-build.iml" />
     </modules>
   </component>
 </project>

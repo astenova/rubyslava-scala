@@ -29,6 +29,7 @@ object Example1 {
     println
     println(isZero(0))
     println(isZero(1))
+
     println(isZero(0.0))            // Double conversion
     println(isZero(BigDecimal(0)))  // BigDecimal conversion
     println(isZero(false))

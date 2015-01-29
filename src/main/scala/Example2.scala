@@ -19,8 +19,8 @@ object Example2 {
       case Employee(name, surname, age, _) =>
         "employee: " + name + " " + surname + " with age " + age
 
-      //case Customer(name, surname, importance) =>
-      //  "customer: " + name + " " + surname
+      case Customer(name, surname, importance) =>
+        "customer: " + name + " " + surname
 
       case Customer(name, surname, true) =>
         "important customer: " + name + " " + surname
