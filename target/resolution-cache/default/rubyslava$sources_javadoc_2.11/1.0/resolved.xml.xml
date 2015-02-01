@@ -4,7 +4,7 @@
 		module="rubyslava$sources_javadoc_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150127212011"
+		publication="20150201214214"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

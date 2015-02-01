@@ -4,7 +4,7 @@
 		module="rubyslava$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150127212010"
+		publication="20150201214212"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
